@@ -1,1 +1,1 @@
-# House interior project (solo)
+# house interior
