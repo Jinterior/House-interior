@@ -1,1 +1,1 @@
-# house interior
+# house-interior
